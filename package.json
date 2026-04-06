@@ -1,6 +1,7 @@
 {
   "name": "plugin-google-workspace",
   "version": "0.0.1",
+  "vienna-plugin": true,
   "private": true,
   "description": "Google Workspace integration — Gmail, Calendar, and Drive via gws CLI",
   "type": "module",
